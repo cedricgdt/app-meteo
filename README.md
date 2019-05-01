@@ -13,3 +13,5 @@ Consignes de l'exercice :
     Projet sur GITHUB (sans le package-lock.json et node_modules)
 
     Good luck :)
+
+![Zozor](https://i.imgur.com/l8rheFw.png)
